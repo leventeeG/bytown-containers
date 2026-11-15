@@ -1,0 +1,3 @@
+Q1: The file was lost because container data is not saved after the container is deleted unless a volume is used.
+Q2: Only the proxy needs external access and the web service stays on the internal Compose network and cannot be accessed directly from the laptop.
+Q3: An image is a read only package used to create containers, a container is a running instance of an image.
